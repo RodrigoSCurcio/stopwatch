@@ -1,4 +1,4 @@
-<h1>Calculadora</h1>
+![Contador](https://user-images.githubusercontent.com/59969422/125809099-9292b7a8-bc5c-4b35-a0fb-3bff58d3816a.PNG)
 
 > Status: Finalizado 🆗
 
